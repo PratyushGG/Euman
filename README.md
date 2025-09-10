@@ -1,4 +1,4 @@
-# Human Trace Lab MVP
+# Human Trace Lab MVP (Euman)
 
 A public-facing MVP landing page for Human Trace Lab, a verified human reasoning dataset platform.
 
